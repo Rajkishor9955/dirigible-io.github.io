@@ -32,7 +32,7 @@ console.log("XML: " + result);
 response.println(JSON.stringify("XML: " + result));
 
 response.flush();
-response.close();
+response.close();vvnjk
 ```
 
 ---
